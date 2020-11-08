@@ -12,10 +12,10 @@ For mininum temp of 30 degrees F to max of 75 degrees F, Iceland can accomodate.
 
 ![FourHotelsChart](/Vacation_Itinerary/FourHotelsChart.PNG)
 
-![WeatherPy_travel_map_markers](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![WeatherPy_travel_map_markers](/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
 These four hotels are within driving distance. See the attached hotel information on the image.
 
-![WeatherPy_travel_map](/Vacation_Itinerary/WeatherPy_travel_map.png)
+![WeatherPy_travel_map](/Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
 Bon Voyage! Let's go to Iceland!
